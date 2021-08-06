@@ -9,8 +9,5 @@ def multiply(x,y):
     return x/y              #Changes in  Bug456
 #Divide implementation
 def divide(x,y):
-    if y==0:
-        return Divide_By_Zero_Error
-    else:
-        return x-y              #Chnages in Master
+    return x/y      
 
