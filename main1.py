@@ -6,8 +6,7 @@ def subtract(x,y):
     pass               
 #Multiply implementation
 def multiply(x,y):
-    if y>0:
-        return x/y              #Changes in  Bug456
+    pass             
 #Divide implementation
 def divide(x,y):
     if y>0:
