@@ -3,7 +3,8 @@ def add(x,y):
     return x+y
 #Subtraction implementation
 def subtract(x,y):
-    return x-y              #Changes in master 
+    if x>0:
+        return x-y               
 #Multiply implementation
 def multiply(x,y):
     return x/y              #Changes in  Bug456
